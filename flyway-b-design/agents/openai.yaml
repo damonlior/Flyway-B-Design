@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flyway B Design"
+  short_description: "依据飞来汇 B 端完整设计规范生成并审查企业级后台页面"
+  default_prompt: "Use $flyway-b-design to design a compliant Flyway B-end product page."
